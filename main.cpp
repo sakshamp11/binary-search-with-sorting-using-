@@ -72,6 +72,7 @@ int binarysearch(int arr[],int s,int e,int x){
             return binarysearch(arr,t+1,e,x);
         }
     }
+    return -1:
 }
 int main()
 {
